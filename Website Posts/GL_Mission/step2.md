@@ -1,20 +1,5 @@
 # SCORRE Process for GL's Welcome Posts
 
-## Step 1. Choose a subject / Research
-Grace Lead
-
-### The Subject must:
-1. Touch the audience
-2. Must be within the bounds your knowledge
-    - Do you know  what you are talking about?
-      - Yes
-    - Do you believe what you are talking about?
-      - Yes, I just don't believe in myself.
-      - But that's wonderful! Because Grace Lead isn't about David! It's about God and his wonderful grace seen most clearly in Jesus Christ and the Holy Spirit
-    - Do you live/apply/use what you are talking about?
-      - Every day
-
-
 ## Step 2. Choose a central theme / List everything you want to say about your subject
 
 The objective of this step is to narrow the welcome posts down to a manageable amount of information.
@@ -27,7 +12,7 @@ The objective of this step is to narrow the welcome posts down to a manageable a
     - Grace Lead, the 501(c)(3) non profit
 
 3. The single aspect of my subject that I will choose as my central theme is:
-    -  Grace Lead's Mission
+    -  Grace Lead's Mission (which is to encourage and equip Christian leaders with the grace of Jesus Christ )
 
 ### List everything you want to say about Grace Lead in these welcome posts (and then pick one for one welcome post - save the others for later)
 - That it's a 501(c)(3) non profit that is tax exempt
@@ -41,4 +26,3 @@ The objective of this step is to narrow the welcome posts down to a manageable a
 - The main subjects/topics that Grace Lead writes about and does workshops about
 - Current needs and prayer requests
 - Contact info and giving site
-
